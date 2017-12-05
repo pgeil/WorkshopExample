@@ -29,7 +29,7 @@ a_v = np.array(a_v)
 mag_b = np.array(mag_b)
 mag_r = np.array(mag_r)
 print("Have %d entries" % len(ra))
-print 'Goodbye world'
+print 'Goodbye world -- it has been fun'
 
 radius = 1
 ra_sn = [50, 75, 175, 200, 205, 300]
